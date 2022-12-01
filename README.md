@@ -123,6 +123,7 @@ np.mean(predict(res.x,X)==y)
 ![logistic regression using gradient descent](op5.png)
 ![logistic regression using gradient descent](op6.png)
 ![logistic regression using gradient descent](op7.png)
+![op10](https://user-images.githubusercontent.com/94386222/204984673-ef2f1d3a-c65e-4853-98db-81d207fc7be2.png)
 ![logistic regression using gradient descent](op8.png)
 ![logistic regression using gradient descent](op9.png)
 
